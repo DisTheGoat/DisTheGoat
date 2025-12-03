@@ -1,4 +1,4 @@
-## Hi there 👋
+##woag this is the Dis, this will be updated soon perhaps
 
 <!--
 **DisTheGoat/DisTheGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
